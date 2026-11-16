@@ -1,0 +1,14 @@
+# Code::Blocks / IDE files
+*.cbp
+*.depend
+*.layout
+bin/
+obj/
+
+# Build output
+*.exe
+*.o
+*.out
+
+# Backup copies
+* - Copie*

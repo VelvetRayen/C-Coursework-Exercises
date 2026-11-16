@@ -1,4 +1,4 @@
-# parcours-9raya
+# C-Coursework-Exercises
 
 My C programming learning journey: small exercises and mini-projects, organized by topic.
 Every program is a console application written in plain C.
